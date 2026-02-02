@@ -1,0 +1,14 @@
+Bug ID,Task ID,Priority,Summary,Assignee,Bug Category,Version,Opened,Reporter
+45293,700356-1,High,"""complaint report not showing in mybank admin portal""",shijin.p@sesameindia.com,Coding  Issue UI,9.4.2.0,5/2/2025 16:38,athul.raj@sesameindia.com
+45296,700373-1,Low,"""shows enter 400 words , even after can enter 2500 words""",shijin.p@sesameindia.com,Coding  Issue UI,9.4.2.0,5/2/2025 17:10,athul.raj@sesameindia.com
+45297,700373-1,High,"""content not possible to saw completely and alignment shows wrong""",muhammed.jaseel@sesameindia.com,Coding  Issue UI,9.4.2.0,5/2/2025 17:36,athul.raj@sesameindia.com
+45298,700356-1,High,"""export button not working in mybank""",shijin.p@sesameindia.com,Logic Issue,9.4.2.0,5/2/2025 18:15,athul.raj@sesameindia.com
+45299,700364-1,Highest,"""instead of month , showing account number in frequency field""",muhammed.jaseel@sesameindia.com,Coding  Issue UI,9.4.2.0,5/2/2025 18:24,athul.raj@sesameindia.com
+45306,700375-1,Highest,"""app moving backward , instead of moving otp page ,page  moving backward to interest page.""",muhammed.jaseel@sesameindia.com,Coding  Issue UI,9.4.2.0,6/2/2025 12:58,athul.raj@sesameindia.com
+45307,700369-1,High,"""Date not showing in DD MM YY format""",muhammed.jaseel@sesameindia.com,Coding  Issue UI,9.4.2.0,6/2/2025 13:02,athul.raj@sesameindia.com
+45327,700356-1,High,"""customer phone number and email not showing in exported data""",shijin.p@sesameindia.com,Coding  Issue UI,9.4.2.0,7/2/2025 10:48,athul.raj@sesameindia.com
+45333,700375-1,High,"""opened fd not showing in Term deposit Requests """,shijin.p@sesameindia.com, ---,9.4.2.0,7/2/2025 15:23,athul.raj@sesameindia.com
+45339,700367-1,Highest,"""roi ,maturity amount and maturity date not loading automatically after entering amount""",jijinlal.p@sesameindia.com,Coding Issue DB,9.4.2.0,7/2/2025 18:24,athul.raj@sesameindia.com
+45341,700367-1,High,"""aadhar number field not showing in nominee page""",jijinlal.p@sesameindia.com,Coding  Issue UI,9.4.2.0,10/2/2025 12:28,athul.raj@sesameindia.com
+45371,700375-1,Highest,"""term deposit request window not showing any data , after clicking on refresh button app keeps hanging""",shijin.p@sesameindia.com,Logic Issue,9.4.2.0,11/2/2025 16:21,athul.raj@sesameindia.com
+45372,700356-1,Low,"""slno shows wrong in mybank admin portal""",shijin.p@sesameindia.com, ---,9.4.2.0,11/2/2025 16:24,athul.raj@sesameindia.com
