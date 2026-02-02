@@ -1,0 +1,26 @@
+Bug ID,Task ID,Priority,Summary,Assignee,Bug Category,Version,Opened,Reporter
+42887,664167-1,Highest,"""App keeps crashing while trying to log to application""",shijin.p@sesameindia.com,Script Missing,9.4.1.0,9/10/2024 9:44,athul.raj@sesameindia.com
+42903,664167-1,High,"""unknown error occurred "" an popup shows up while opening loan opening window",jijinlal.p@sesameindia.com,Coding  Issue UI,9.4.1.0,9/10/2024 14:53,athul.raj@sesameindia.com
+42912,664167-1,Highest,"""un released Packets are not listing in jewel loan opening window """,jijinlal.p@sesameindia.com,Coding  Issue UI,9.4.1.0,9/10/2024 17:12,athul.raj@sesameindia.com
+43001,664167-1,Low,"""ROI decimals shows more than 2 digits after decimal""",jijinlal.p@sesameindia.com,Coding Issue DB,9.4.1.0,11/10/2024 16:28,athul.raj@sesameindia.com
+43002,664167-1,High,"""an error occurred"" while clicking on view image an error message shows up",jijinlal.p@sesameindia.com,Coding Issue DB,9.4.1.0,11/10/2024 16:33,athul.raj@sesameindia.com
+43013,664167-1,High,"""Purpose , PriorityWeaker ,Priority Classification,Borr.Category  ,Sp.Category  ,Class "" missing also nominee not required option also not working properly"".",jijinlal.p@sesameindia.com,Coding Issue DB,9.4.1.0,11/10/2024 18:42,athul.raj@sesameindia.com
+43041,656152-1,High,"""IFSC code not showing in eft outward table and also transfer type shows 1""",jijinlal.p@sesameindia.com,Coding Issue DB,9.4.1.0,14-10-2024 14:53,athul.raj@sesameindia.com
+43044,664167-1,High,"""renewal is not possible through mybank application""",jijinlal.p@sesameindia.com,Coding Issue DB,9.4.1.0,14-10-2024 16:21,athul.raj@sesameindia.com
+43048,664167-1,Highest,"""renewal not possible with external account in my bank application through topup window""",jijinlal.p@sesameindia.com,Coding Issue DB,9.4.1.0,14-10-2024 17:06,athul.raj@sesameindia.com
+43081,656152-1,High,"""no validation message shows up while adding own bank beneficary in other bank in eft window""",jijinlal.p@sesameindia.com,Build and Deployment Issue,9.4.1.0,15-10-2024 17:37,athul.raj@sesameindia.com
+43088,668678-1,Highest,"""mybank application got crashing after doing configration to mssql""",shijin.p@sesameindia.com,Coding Issue DB,9.4.1.0,16-10-2024 10:00,athul.raj@sesameindia.com
+43090,650204-1,High,"""view button not showing in request status window against complaints""",muhammed.jaseel@sesameindia.com,Coding  Issue UI,9.4.1.0,16-10-2024 10:13,athul.raj@sesameindia.com
+43115,650204-1,Highest,"""app keeps crashing while clicking on apk""",shijin.p@sesameindia.com,Build and Deployment Issue,9.4.1.0,16-10-2024 15:16,athul.raj@sesameindia.com
+43165,674918-1,High,"While to TDS Exemption marking showing ""Internal server error : 500""",muhammed.jaseel@sesameindia.com,Logic Issue,9.4.1.0,17-10-2024 15:22,hijas.palakkal@sesameindia.com
+43166,670748-1,High,While add news the notification is not showing as well from the floating menu News option selected and click on the news details app crashing.,muhammed.jaseel@sesameindia.com,Coding  Issue UI,9.4.1.0,17-10-2024 15:29,hijas.palakkal@sesameindia.com
+43176,664167-1,Low,"""view securities button not working in gold details window""",muhammed.jaseel@sesameindia.com,Coding  Issue UI,9.4.1.0,18-10-2024 11:20,athul.raj@sesameindia.com
+43182,664167-1,High,"""only one image is showing against item , general added image not showing in application""",jijinlal.p@sesameindia.com,Coding Issue DB,9.4.1.0,18-10-2024 12:51,athul.raj@sesameindia.com
+43183,664167-1,Low,"""after unchecking the amount showing  there not shows properly in the gold opening screen""",muhammed.jaseel@sesameindia.com,Coding  Issue UI,9.4.1.0,18-10-2024 12:57,athul.raj@sesameindia.com
+43202,664167-1,Highest,"""app redirects to homepage while selecting odkcc as product""",jijinlal.p@sesameindia.com,Coding Issue DB,9.4.1.0,18-10-2024 16:42,athul.raj@sesameindia.com
+43207,664167-1,High,"""currently drawing  amount shows wrong against odkcc acc opening """,muhammed.jaseel@sesameindia.com,Coding  Issue UI,9.4.1.0,18-10-2024 17:33,athul.raj@sesameindia.com
+43227,664167-1,High,"""not possible to open odkcc account through mybank and also drwable amount shows wrong""",jijinlal.p@sesameindia.com,Coding Issue DB,9.4.1.0,21-10-2024 12:50,athul.raj@sesameindia.com
+43239,664167-1,High,"""app got crashing while clicking on back button in summary page""",muhammed.jaseel@sesameindia.com,Logic Issue,9.4.1.0,21-10-2024 15:58,athul.raj@sesameindia.com
+43243,668678-1,High,"""sms is not working properly in mybank""",shijin.p@sesameindia.com,Configuration Issue,9.4.1.0,21-10-2024 16:59,athul.raj@sesameindia.com
+43278,668678-1,Highest,"""app keeps crashing while clicking on submit button after entering otp for new customer""",muhammed.jaseel@sesameindia.com,Coding  Issue UI,9.4.1.0,22-10-2024 16:52,athul.raj@sesameindia.com
+43280,668678-1,High,Unable to log in the portal.,shijin.p@sesameindia.com,Logic Issue,9.4.1.0,22-10-2024 17:43,hijas.palakkal@sesameindia.com
